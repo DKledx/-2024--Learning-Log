@@ -2,23 +2,23 @@
 
 ## January: Python for Data Science
 
-- [ ] Learn Python programming and libraries like NumPy, Pandas, and Matplotlib
-- [ ] Practice data manipulation and visualization
+- [x] Learn Python programming and libraries like NumPy, Pandas, and Matplotlib
+- [x] Practice data manipulation and visualization
 
 ## February: Machine Learning Basics
 
-- [ ] Understand the basics of machine learning
-- [ ] Learn about different types of machine learning algorithms
+- [x] Understand the basics of machine learning
+- [x] Learn about different types of machine learning algorithms
 - [ ] Practice implementing machine learning algorithms with Scikit-learn
 
 ## March: Deep Learning Basics
 
-- [ ] Learn about neural networks and deep learning
+- [x] Learn about neural networks and deep learning
 - [ ] Practice implementing neural networks with TensorFlow and PyTorch
 
 ## April: MLOps Basics
 
-- [ ] Understand the basics of MLOps
+- [x] Understand the basics of MLOps
 - [ ] Learn about CI/CD for machine learning
 - [ ] Practice setting up a simple MLOps pipeline
 

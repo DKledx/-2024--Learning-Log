@@ -2,24 +2,24 @@
 
 ## January: Basics of Programming
 
-- [ ] Learn basics of Java programming
-- [ ] Practice problem-solving using Java
+- [x] Learn basics of Java programming
+- [x] Practice problem-solving using Java
 
 ## February: Advanced Java
 
-- [ ] Learn about OOP concepts in Java
+- [x] Learn about OOP concepts in Java
 - [ ] Understand Java Collections, Exceptions, and Multithreading
 - [ ] Practice building applications using Java
 
 ## March: Basics of Web Development
 
-- [ ] Learn HTML, CSS, and JavaScript
-- [ ] Understand how to create static web pages
-- [ ] Practice building static websites
+- [x] Learn HTML, CSS, and JavaScript
+- [x] Understand how to create static web pages
+- [x] Practice building static websites
 
 ## April: Introduction to Angular
 
-- [ ] Learn about Angular framework
+- [x] Learn about Angular framework
 - [ ] Understand TypeScript and Angular Components, Modules, and Services
 - [ ] Practice building a simple application using Angular
 
